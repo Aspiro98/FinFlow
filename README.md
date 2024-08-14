@@ -1,4 +1,4 @@
-# ![logo](https://github.com/user-attachments/assets/cdcbc9a0-0bbb-41fa-99e4-8dbc3938d38a) FinFlow
+# FinFlow
 
 ![FinFlow](https://github.com/user-attachments/assets/3eb6a3fa-3ef5-4945-bf46-277fb88a52db)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
